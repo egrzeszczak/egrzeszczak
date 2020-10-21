@@ -16,3 +16,11 @@ Currently working on these technologies:
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linux/linux-original.svg" width=32 height=32>
 </p>
 
+Also interested in learning:
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/gitlab/gitlab-original.svg" width=32 height=32>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/docker/docker-original.svg" width=32 height=32>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/dot-net/dot-net-original.svg" width=32 height=32>
+
+</p>
+
