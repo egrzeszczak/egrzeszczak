@@ -18,9 +18,11 @@ Currently working on these technologies:
 
 Also interested in learning:
 <p align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width=32 height=32>
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/gitlab/gitlab-original.svg" width=32 height=32>
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/docker/docker-original.svg" width=32 height=32>
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/dot-net/dot-net-original.svg" width=32 height=32>
+
 
 </p>
 
