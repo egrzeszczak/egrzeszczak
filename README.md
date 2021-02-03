@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm a Computer Science student at Lublin University of Technology. 
 Currently learning about these technologies:
