@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 I've graduated from Lublin Univertisty of Technology with a B. Eng. in Computer Science
+<br />
 Currently learning about these technologies:
 
 <p align="left">
