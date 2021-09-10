@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a Computer Science student at Lublin University of Technology. 
+I've graduated from Lublin Univertisty of Technology with a B. Eng. in Computer Science
 Currently learning about these technologies:
 
 <p align="left">
