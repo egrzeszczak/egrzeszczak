@@ -22,5 +22,6 @@ Interested in these technologies:
     <img src="elastic-kibana.png" width=32 height=32>
     <img src="sentinel.png" width=32 height=32>
     <img src="wazuh.png" width=32 height=32>
+    <img src="shuffle.png" width=32 height=32>
 </p>
 
