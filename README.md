@@ -21,5 +21,6 @@ Interested in these technologies:
     <img src="elastic-elasticsearch.png" width=32 height=32>
     <img src="elastic-kibana.png" width=32 height=32>
     <img src="sentinel.png" width=32 height=32>
+    <img src="sentinel.png" width=32 height=32>
 </p>
 
