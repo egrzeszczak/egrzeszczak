@@ -17,11 +17,13 @@ Interested in these technologies:
     <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mongodb/mongodb-original.svg" width=32 height=32>
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" width=32 height=32>
     <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/docker/docker-original.svg" width=32 height=32>
-</br>
     <img src="elastic-elasticsearch.png" width=32 height=32>
     <img src="elastic-kibana.png" width=32 height=32>
     <img src="sentinel.png" width=32 height=32>
     <img src="wazuh.png" width=32 height=32>
     <img src="shuffle.png" width=32 height=32>
+    <img src="thehive.png" width=29 height=32>
+    <img src="misp.png" width=36 height=32>
+    <img src="cortex.png" width=36 height=32>
 </p>
 
