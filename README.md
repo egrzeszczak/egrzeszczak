@@ -2,7 +2,7 @@
 
 I've graduated from Lublin Univertisty of Technology with a B. Eng. in Computer Science
 <br/>
-Currently on my way to get M.Sc. in Cybersecurity.
+Currently on my way to get a M.Sc. degree in Cybersecurity.
 <br />
 
 Interested in these technologies:
