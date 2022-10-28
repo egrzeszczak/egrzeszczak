@@ -2,7 +2,7 @@
 
 B.Eng. in **Computer Science**
 <br/>
-Getting M.Sc. degree in **Cybersecurity**
+Getting a M.Sc. degree in **Cybersecurity**
 <br />
 
 <p align="left">
